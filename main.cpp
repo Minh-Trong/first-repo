@@ -1,2 +1,2 @@
-#include "monster.h"
+#include "character.h"
 int main() {}
