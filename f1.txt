@@ -1,2 +1,7 @@
-int func();
+#inclue "Monster.h"
+int main()
+{
+// the main function
+
+}
 
