@@ -1,2 +1,4 @@
-int func();
+//int func
+int func()
 
+cherry-pick this commit!
